@@ -1,0 +1,1 @@
+This is an example of a redux like global store for a React app, but without actually using redux. This keeps the basic contract of useSelector and useDispatch functions, but it does not work with complex selectors, it is just an example, not production ready. 
